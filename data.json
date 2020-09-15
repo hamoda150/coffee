@@ -1,0 +1,269 @@
+[{
+  "_id": {
+    "$oid": "5f5f7af1424a4841fee4f5b4"
+  },
+  "product type": "COFFEE_MACHINE_LARGE",
+  "code": "CM101",
+  "version": "base model",
+  "water_line_compatible": "False",
+  "coffee_flavor": "none",
+  "pack_size": "none"
+},{
+  "_id": {
+    "$oid": "5f5f7d715fd60637688d6d90"
+  },
+  "product type": "COFFEE_MACHINE_LARGE",
+  "code": "CM102",
+  "water_line_compatible": "True",
+  "version": "premium model",
+  "coffee_flavor": "none",
+  "pack_size": "none"
+},{
+  "_id": {
+    "$oid": "5f5f7d825fd60637688d6d91"
+  },
+  "product type": "COFFEE_MACHINE_LARGE",
+  "code": "CM103",
+  "version": "deluxe model",
+  "water_line_compatible": "True",
+  "coffee_flavor": "none",
+  "pack_size": "none"
+},{
+  "_id": {
+    "$oid": "5f5f7ed65fd60637688d6d92"
+  },
+  "product type": "COFFEE_POD_LARGE",
+  "code": "CP101",
+  "coffee_flavor": "COFFEE_FLAVOR_VANILLA",
+  "pack_size": 1
+},{
+  "_id": {
+    "$oid": "5f5f7ee35fd60637688d6d93"
+  },
+  "product type": "COFFEE_POD_LARGE",
+  "code": "CP103",
+  "coffee_flavor": "COFFEE_FLAVOR_VANILLA",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f5f7ee95fd60637688d6d94"
+  },
+  "product type": "COFFEE_POD_LARGE",
+  "code": "CP111",
+  "coffee_flavor": "caramel",
+  "pack_size": 1
+},{
+  "_id": {
+    "$oid": "5f5f7ef05fd60637688d6d95"
+  },
+  "product type": "COFFEE_POD_LARGE",
+  "code": "CP113",
+  "coffee_flavor": "caramel",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f5f7ef75fd60637688d6d96"
+  },
+  "product type": "COFFEE_POD_LARGE",
+  "code": "CP121",
+  "coffee_flavor": "psl",
+  "pack_size": 1
+},{
+  "_id": {
+    "$oid": "5f5f7efe5fd60637688d6d97"
+  },
+  "product type": "COFFEE_POD_LARGE",
+  "code": "CP123",
+  "coffee_flavor": "psl",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f5f7f065fd60637688d6d98"
+  },
+  "product type": "COFFEE_POD_LARGE",
+  "code": "CP131",
+  "coffee_flavor": "mocha",
+  "pack_size": 1
+},{
+  "_id": {
+    "$oid": "5f5f7f0c5fd60637688d6d99"
+  },
+  "product type": "COFFEE_POD_LARGE",
+  "code": "CP133",
+  "coffee_flavor": "mocha",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f5f7f135fd60637688d6d9a"
+  },
+  "product type": "COFFEE_POD_LARGE",
+  "code": "CP141",
+  "coffee_flavor": "hazelnut",
+  "pack_size": 1
+},{
+  "_id": {
+    "$oid": "5f5f7f1a5fd60637688d6d9b"
+  },
+  "product type": "COFFEE_POD_LARGE",
+  "code": "CP143",
+  "coffee_flavor": "hazelnut",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f5f7f635fd60637688d6d9c"
+  },
+  "product type": "ESPRESSO_POD",
+  "code": "EP003",
+  "coffee_flavor": "vanilla",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f5f7f6c5fd60637688d6d9d"
+  },
+  "product type": "ESPRESSO_POD",
+  "code": "EP005",
+  "coffee_flavor": "vanilla",
+  "pack_size": 5
+},{
+  "_id": {
+    "$oid": "5f5f7f765fd60637688d6d9e"
+  },
+  "product type": "ESPRESSO_POD",
+  "code": "EP007",
+  "coffee_flavor": "vanilla",
+  "pack_size": 7
+},{
+  "_id": {
+    "$oid": "5f60b4855fd60637688d6d9f"
+  },
+  "product type": "ESPRESSO_MACHINE",
+  "code": "EM001",
+  "version": "base model",
+  "water_line_compatible": "False",
+  "coffee_flavor": "none",
+  "pack_size": "none"
+},{
+  "_id": {
+    "$oid": "5f60b49c5fd60637688d6da0"
+  },
+  "product type": "ESPRESSO_MACHINE",
+  "code": "EM002",
+  "version": "premium model",
+  "water_line_compatible": "False",
+  "coffee_flavor": "none",
+  "pack_size": "none"
+},{
+  "_id": {
+    "$oid": "5f60b4bd5fd60637688d6da1"
+  },
+  "product type": "ESPRESSO_MACHINE",
+  "code": "EM003",
+  "version": "deluxe model",
+  "water_line_compatible": "True",
+  "coffee_flavor": "none",
+  "pack_size": "none"
+},{
+  "_id": {
+    "$oid": "5f60b5505fd60637688d6da2"
+  },
+  "product type": "COFFEE_POD_SMALL",
+  "code": "CP001",
+  "coffee_flavor": "vanilla",
+  "pack_size": 1
+},{
+  "_id": {
+    "$oid": "5f60b56a5fd60637688d6da3"
+  },
+  "product type": "COFFEE_POD_SMALL",
+  "code": "CP003",
+  "coffee_flavor": "vanilla",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f60b58d5fd60637688d6da4"
+  },
+  "product type": "COFFEE_POD_SMALL",
+  "code": "CP011",
+  "coffee_flavor": "caramel",
+  "pack_size": 1
+},{
+  "_id": {
+    "$oid": "5f60b5a55fd60637688d6da5"
+  },
+  "product type": "COFFEE_POD_SMALL",
+  "code": "CP013",
+  "coffee_flavor": "caramel",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f60b5bb5fd60637688d6da6"
+  },
+  "product type": "COFFEE_POD_SMALL",
+  "code": "CP021",
+  "coffee_flavor": "psl",
+  "pack_size": 1
+},{
+  "_id": {
+    "$oid": "5f60b5ce5fd60637688d6da7"
+  },
+  "product type": "COFFEE_POD_SMALL",
+  "code": "CP023",
+  "coffee_flavor": "psl",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f60b5ec5fd60637688d6da8"
+  },
+  "product type": "COFFEE_POD_SMALL",
+  "code": "CP031",
+  "coffee_flavor": "mocha",
+  "pack_size": 1
+},{
+  "_id": {
+    "$oid": "5f60b6165fd60637688d6da9"
+  },
+  "product type": "COFFEE_POD_SMALL",
+  "code": "CP033",
+  "coffee_flavor": "mocha",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f60b62a5fd60637688d6daa"
+  },
+  "product type": "COFFEE_POD_SMALL",
+  "code": "CP041",
+  "coffee_flavor": "hazelnut",
+  "pack_size": 1
+},{
+  "_id": {
+    "$oid": "5f60b63d5fd60637688d6dab"
+  },
+  "product type": "COFFEE_POD_SMALL",
+  "code": "CP043",
+  "coffee_flavor": "hazelnut",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f60b6945fd60637688d6dac"
+  },
+  "product type": "ESPRESSO_POD",
+  "code": "EP013",
+  "coffee_flavor": "caramel",
+  "pack_size": 3
+},{
+  "_id": {
+    "$oid": "5f60b6a45fd60637688d6dad"
+  },
+  "product type": "ESPRESSO_POD",
+  "code": "EP015",
+  "coffee_flavor": "caramel",
+  "pack_size": 5
+},{
+  "_id": {
+    "$oid": "5f60b6b05fd60637688d6dae"
+  },
+  "product type": "ESPRESSO_POD",
+  "code": "EP017",
+  "coffee_flavor": "caramel",
+  "pack_size": 7
+}]
